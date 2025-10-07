@@ -3,7 +3,7 @@
 pkgname=mesa-pvr-ddk119
 pkgdesc="Mesa wrapper for PVR DDK 1.19 blobs"
 pkgver=22.1.7
-pkgrel=1
+pkgrel=2
 arch=('riscv64')
 makedepends=('git' 'python-mako' 'xorgproto'
               'libxml2' 'libx11'  'libvdpau' 'libva' 'elfutils' 'libxrandr'
